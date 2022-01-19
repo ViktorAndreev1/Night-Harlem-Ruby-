@@ -1,2 +1,2 @@
-# Night-Harlem-Ruby
+# Game "Night Harlem"
 # On native Ruby
